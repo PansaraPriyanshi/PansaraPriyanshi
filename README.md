@@ -36,7 +36,4 @@ You may know me from [@bugs_fixes][2].😉
 
 
 
-[1]: https://www.linkedin.com/in/PansaraPriyanshi
-[2]: https://www.instagram.com/bugs_fixes
-[3]: https://twitter.com/mr_aghera_0508
-[4]: https://www.youtube.com/@bugs_fixes
+
